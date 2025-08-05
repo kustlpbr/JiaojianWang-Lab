@@ -26,19 +26,7 @@ This repository contains the scripts and resources used in our study. The projec
   * Mplus7
   * `BifactorIndicesCalculator` (0.2.2)
 
-### 3. **ANOVA and T-test**
-
-* **Description**: Includes Python scripts for group-level analyses of brain phenotypes:
-  * ANOVA for variance analysis
-  * T-tests for group comparison
-* **Tools Used**:
-  * `Numpy` (1.25.0)
-  * `Scipy` (1.11.1)
-  * `Statsmodels` (0.14.0)
-  * `Seaborn` (0.12.2)
-  * `Matplotlib` (3.7.2)
-
-### 4. **Mediation Effects Model**
+### 3. **Mediation Effects Model**
 
 * **Description**: Scripts for analyzing:
   * Extreme deviations
@@ -49,7 +37,7 @@ This repository contains the scripts and resources used in our study. The projec
   * `Statsmodels` (0.14.0)
   * `Pandas` (2.0.3)
 
-### 5. **Normative Model**
+### 4. **Normative Model**
 
 * **Description**: Contains Python scripts to develop the normative model used in this study.  
   This implementation is based on the repository from [Predictive Clinical Neuroscience](https://github.com/predictive-clinical-neuroscience/NM_educational_OHBM24).
